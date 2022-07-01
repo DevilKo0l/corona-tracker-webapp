@@ -14,7 +14,6 @@ export const fetchData = async () => {
       deaths,
       lastUpdate,
     };
-
     return modifiedData;
   } catch (error) {}
 };
