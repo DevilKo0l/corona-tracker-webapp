@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  <h3 align="center">Corona Tracker Website</h3>
+  <h3 align="center">Corona Tracker Web Application</h3>
 
   <p align="center">
     A website helps everyone track coronavirus situations all over the world
@@ -15,7 +15,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a responsive website for tracking corona virus. I built this project to refresh my knowledge about Reactjs and API
+This is a responsive website for tracking Covid-19 in your area, and get the latest state and county data on infected, recoveries, deaths,... I built this project to refresh my knowledge about Reactjs and API
 
 ### Built With
 The technologies I use in this project inclues:
@@ -34,14 +34,14 @@ You need to install [nodejs](https://nodejs.org/en/)
 ### Installation
 
 1. Clone the repo
-   ```sh
+   ```
    git clone https://github.com/DevilKo0l/corona-tracker-webapp.git
    ```
-2. Install npm in gourmet-restaurant-web folder
+2. Install npm in corona-tracker-webapp folder
    ```
    npm install
    ```
-3. Run the project `npm start` in corona-tracker-webapp folder
+3. Run the project
    ```
    npm start
    ```
