@@ -1,28 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { fetchDailyData } from "../../api";
 import styles from "./Chart.module.css";
-
 import { Line, Bar } from "react-chartjs-2";
-import {
-  Chart as ChartJS,
-  CategoryScale,
-  LinearScale,
-  PointElement,
-  LineElement,
-  Title,
-  Tooltip,
-  Legend,
-} from "chart.js";
-
-ChartJS.register(
-  CategoryScale,
-  LinearScale,
-  PointElement,
-  LineElement,
-  Title,
-  Tooltip,
-  Legend
-);
 
 const Chart = ({ data: { confirmed, deaths, recovered }, country }) => {
   const [dailyData, setDailyData] = useState([]);
