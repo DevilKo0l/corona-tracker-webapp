@@ -6,7 +6,7 @@ import { fetchData } from "./api";
 class App extends React.Component {
   state = {
     data: {},
-    country: "",
+    country: "global",
   };
   async componentDidMount() {
     const fetchedData = await fetchData();

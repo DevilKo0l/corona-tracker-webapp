@@ -12,7 +12,7 @@ export const fetchData = async (country) => {
   try {
     const {
       data: { confirmed, recovered, deaths, lastUpdate },
-    } = await axios.get(changeableUrl);
+    } = await axios.get(country === "global" ? url : changeableUrl);
     const modifiedData = {
       confirmed,
       recovered,
