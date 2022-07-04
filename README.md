@@ -8,7 +8,7 @@
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>   
+    <a href="https://nat-corona-tracker.netlify.app/">View Demo</a>   
     
   </p>
 </div>
@@ -23,6 +23,7 @@ The technologies I use in this project inclues:
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [API](https://covid19.mathdro.id/api)
 
 <!-- GETTING STARTED -->
 ## Getting Started
