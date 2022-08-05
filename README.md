@@ -8,7 +8,7 @@
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nat-corona-tracker.netlify.app/">View Demo</a>   
+    <a href="https://nat-corona-tracker.netlify.app/">Live Preview</a>   
     
   </p>
 </div>
